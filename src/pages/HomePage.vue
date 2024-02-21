@@ -1,4 +1,5 @@
 <template>
+  <p>테스트중</p>
   <div class="page-content">
     <section id="search">
       <form name="frmSearch" @submit.prevent="searchHouse" id="frmSearchMain">
